@@ -11,7 +11,7 @@
 
 int main(void)
 {
-    int num = 0b00000111;
+    int num = 0b0100010;
     printf("%d\n", num);
     return 0;
 }
